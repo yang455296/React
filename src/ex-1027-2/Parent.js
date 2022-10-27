@@ -2,10 +2,9 @@ import { useState } from 'react';
 import Child from './Child';
 
 function Parent() {
-  const [total, setTotal] = useState(0);
   return (
     <>
-      <Child total={total} setTotal={setTotal} />
+      <Child firstName="Eddy" lastName="Chang" />
     </>
   );
 }
