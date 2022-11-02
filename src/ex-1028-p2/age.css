@@ -1,0 +1,9 @@
+.isAdult {
+    color: green;
+}
+.isNotAdult {
+    color: red;
+}
+select{
+    margin-right:  4px;
+}

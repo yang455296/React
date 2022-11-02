@@ -1,5 +1,5 @@
 function Child({ cat, name, price }) {
-  //解構位置不同,建議用上面
+  //解構位置不同,建議用下面
   // function Child(props) {
   //   const { cat, name, price } = props;
 
